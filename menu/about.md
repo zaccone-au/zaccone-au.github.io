@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: About zaccone blog
 ---
 
 Amended 'About' as a test
