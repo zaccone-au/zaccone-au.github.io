@@ -20,8 +20,8 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'zaccone blog'
-description:	       'a minimalist FI blog'
+title:		           'the Alt FI'
+description:	       'redefining FI for real people'
 author:              'zaccone'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
